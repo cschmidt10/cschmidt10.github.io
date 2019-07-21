@@ -1,0 +1,26 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #eddce4;
+}
+
+.jumbotron {
+ background: url(pink_bg.jpg) fixed center no-repeat;
+ background-size: cover;
+ padding-top: 20%;
+ padding-bottom: 20%;
+}
+
+btn {
+	color: #127ab7;
+}
+
+h1	{
+	font-family: 'Literata', serif;
+	padding-bottom: 1.75em;
+}
